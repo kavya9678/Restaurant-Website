@@ -207,7 +207,7 @@ nav #logo{
     overflow: auto; /*da raste*/
         
     width: 75%;
-    height: 100vh; /*mora eksplicitno da se navede da bi radio %*/ 
+    height: 100vh; 
     margin: 4rem auto 5rem;
     flex: 1;
     display: flex;
